@@ -14,7 +14,7 @@ Checkout the included screenshots. The GUI can improve, but it gets the work don
 
 Acknowledgements
 ----------------
-* Prof Abhijeet Mustafi, for the project idea and concepts of Data Communications.
+* Prof Abhijit Mustafi, for the project idea and concepts of Data Communications.
 * The wonderful community over at http://stackoverflow.com, for helping get past all bottlenecks
 * The very helpful documentation of Tkinter at http://effbot.org/tkinterbook/
 

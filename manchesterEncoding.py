@@ -67,7 +67,7 @@ class AutomataGUI:
         self.canvasitems = []
         self.canvas.pack()
 
-        self.bottomLabel = Label(parentFrame, text="Created by Siddhartha under Prof. A. Mustafi [Fundamentals of Data Comm., Dept. of CSE, BIT Mesra]")
+        self.bottomLabel = Label(parentFrame, text="Created by Siddhartha Sahu under Prof. A. Mustafi [Fundamentals of Data Communications, Dept. of CSE, BIT Mesra]")
 
         inputFrame.grid(row=0, column=0, sticky=W, padx=(50, 0))
         self.statusLabel.grid(row=1, column=0, sticky=W, padx=(50, 0))
